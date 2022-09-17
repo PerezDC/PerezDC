@@ -1,4 +1,4 @@
-
+<img src="https://github.com/PerezDC/PerezDC/blob/main/Image%205.png" title="MemojiFistBump" alt="Memoji">
 ### Hi there 👋
 
 
