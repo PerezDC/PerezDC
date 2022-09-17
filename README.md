@@ -33,8 +33,13 @@ and I've been with AmeriBen for over a year. :baby:
 - Adobe Xd <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Xd" alt="Xd" width="40" height="40"/>&nbsp;
 - Git <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 
+---
 
+## Thanks for checking out my GitHub page! Stay in touch and shoot me a connection request on [LinkedIn](https://www.linkedin.com/in/david-c-perez1/)!
 
+<p align="center">
+  <img src = "https://github.com/PerezDC/PerezDC/blob/main/Image%202.png" width="200">
+</p>
 
 
 
