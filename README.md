@@ -4,8 +4,8 @@
 
 # Hi, I'm David! 👋
 <p>
-I'm a Software Developer III - Software Engineering @ [UST](https://www.ust.com). <br>
-My hobbies include photography :camera:, coding :computer: and lifting :muscle:. <br><br>
+I'm a Software Developer III - Software Engineering at UST. <br>
+My hobbies include lifting :muscle:, photography :camera:, and coding :computer:. <br><br>
 I was in the Marine Corps from 2012 - 2020 as a 0511 MAGTF Planning Specialist :shrug: <i>IYKYK</i><br>
 and I've been pursuing Software Development ever since.
 </p>
