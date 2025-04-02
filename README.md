@@ -4,20 +4,22 @@
 
 # Hi, I'm David! 👋
 <p>
-I'm a Software Developer II at AmeriBen in Meridian, ID. <br>
+I'm a Software Developer III - Software Engineering @ [UST](https://www.ust.com). <br>
 My hobbies include photography :camera:, coding :computer: and lifting :muscle:. <br><br>
-I'm a USMC Veteran and served for 8 years as a 0511 MAGTF Planning Specialist :shrug: <i>IYKYK</i><br>
-and I've been with AmeriBen for over a year. :baby:
+I was in the Marine Corps from 2012 - 2020 as a 0511 MAGTF Planning Specialist :shrug: <i>IYKYK</i><br>
+and I've been pursuing Software Development ever since.
+</p>
+
+<p>
+  I currently hold a B.S. in Information Technology CONC. Programming from American Military University.
+  I also completed the Microsoft Software and Systems Academy: Cloud Application Developer program with Embry Riddle Aeronautical University.
 </p>
 
 ---
 
 🌱 Technology I’m currently learning ...
 ---
-- Angular <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-- TypeScript <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-- Node.js <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-- Meteor <img src="https://github.com/devicons/devicon/blob/master/icons/meteor/meteor-original.svg" title="Meteor" alt="Meteor" width="40" height="40"/>&nbsp;
+- React (Native) <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 ---
 
 👨🏻‍💻 Technology I'm familiar with ...
@@ -25,6 +27,7 @@ and I've been with AmeriBen for over a year. :baby:
 
 - C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
 - .NET <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dotNet" alt="dotNet" width="40" height="40"/>&nbsp;
+- Angular <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 - Java <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 - CSS3 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 - HTML5 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
